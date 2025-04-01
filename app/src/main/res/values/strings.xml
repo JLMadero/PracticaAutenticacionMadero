@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica Autenticacion</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="passwordConfirm">Confirmar Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="registrate">¡Registrate!</string>
+    <string name="logout">Cerrar Sesión</string>
+</resources>
